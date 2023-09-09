@@ -1,0 +1,10 @@
+Test_Episode0:return=34.5,length=331
+Test_Episode1:return=48.5,length=483
+Test_Episode2:return=12.0,length=61
+Test_Episode3:return=42.1,length=366
+Test_Episode4:return=42.7,length=315
+Test_Episode5:return=30.4,length=223
+Test_Episode6:return=39.6,length=356
+Test_Episode7:return=111.8,length=528
+Test_Episode8:return=40.9,length=465
+Test_Episode9:return=36.2,length=305
