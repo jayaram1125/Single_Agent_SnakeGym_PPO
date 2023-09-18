@@ -3,6 +3,8 @@ Snake Gym implemented using Box2d and Envpool libraries
 PPO(Proximal policy optimization) algorithm used to train the snake agent is adapted from OpenAI's Baselines and
 https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
 
+MPI code is taken from https://github.com/openai/spinningup/tree/master/spinup/utils
+
 Training duration : 7hrs 17min  using 1 TeslaV100 GPU and 6 CPU machine 
 <p>
     <img width="300" height="300" src="https://github.com/jayaram1125/Single_Agent_SnakeGym_PPO/assets/16265393/721cdc1c-8137-408e-aa88-b5e6a85ed599">
