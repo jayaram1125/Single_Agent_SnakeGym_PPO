@@ -10,9 +10,7 @@ Training duration : 7hrs 17min  using 1 TeslaV100 GPU and 6 CPU machine
 </p>
 
 
-Note:Except the files mpi_pytorch.py, mpi_tools.py,ppo.py, video_recorder.py, snake_env_test.py , all other files have to be placed in the path envpool/envpool/box2d folder to build and install the environment
-
-Commands used for envpool lib
-
-1.To build : make bazel-build   in the path ~/envpool
+Note:Except the files mpi_pytorch.py, mpi_tools.py,ppo.py, video_recorder.py, snake_env_test.py , all other files have to be placed in the path envpool/envpool/box2d folder to build and install the environment <br/>
+Commands used for envpool lib <br/>
+1.To build : make bazel-build   in the path ~/envpool <br/>
 2.To install : pip install /home/jayaram/SnakeGame/envpool/dist/envpool-0.6.7-cp39-cp39-linux_x86_64.whl 
