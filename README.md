@@ -16,3 +16,4 @@ Note:Except the files mpi_pytorch.py, mpi_tools.py,ppo.py, video_recorder.py, sn
 Commands used for envpool lib <br/>
 1.To build : make bazel-build   in the path ~/envpool   <br/>
 2.To install : pip install /home/jayaram/SnakeGame/envpool/dist/envpool-0.6.7-cp39-cp39-linux_x86_64.whl 
+3.To train and test model: AVAI_DEVICES=0 RCALL_NUM_GPU=1 mpiexec -np 4 python3 -m ppo
